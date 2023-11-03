@@ -5,7 +5,7 @@ public class Array3 {
         for (int i = 0; i < 10; i++) {
             if (arr[i]>0) {
                 System.out.println("This is positive number:"+arr[i]);
-            } else if (arr[i]<0) {
+            } else {
                 System.out.println("This is negative number:"+arr[i]);
 
             }
