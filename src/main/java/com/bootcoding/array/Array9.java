@@ -1,5 +1,5 @@
 package com.bootcoding.array;
-public class Add {
+public class Array9 {
     public static void main(String[]args){
         int arr[]={4,6,9,20};
         int Sum=0;
