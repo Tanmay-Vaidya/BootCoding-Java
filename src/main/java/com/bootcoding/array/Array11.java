@@ -6,7 +6,7 @@ public class Array11 {
         int Multi=1;
         for(int i=0;i< arr.length;i++)
         {
-            Multi=arr[i]*Multi;
+            Multi = arr[i] * Multi;
         }
         System.out.println(Multi);
     }
