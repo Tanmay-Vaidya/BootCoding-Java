@@ -1,6 +1,6 @@
 package com.bootcoding.array;
 
-public class Array10 {
+public class ArrayElementSubtraction {
     public static void main(String[] args) {
         int arr[]={5,10,15,20,25};
         int Sub=0;

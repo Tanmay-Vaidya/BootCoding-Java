@@ -1,6 +1,6 @@
 package com.bootcoding.array;
 import java.util.Scanner;
-public class Array8 {
+public class ArrayElementTableUser {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter a Number:");

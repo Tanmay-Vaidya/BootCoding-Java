@@ -1,6 +1,6 @@
 package com.bootcoding.array;
 
-public class Array11 {
+public class ArrayElementMultiplication {
     public static void main(String[] args) {
         int arr[]={5,8,4,7,2,5,7};
         int Multi=1;
