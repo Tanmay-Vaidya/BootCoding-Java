@@ -1,5 +1,4 @@
 package LogicalProgram;
-import java.util.Scanner;
 public class SimpleIntersest {
     public static void main(String[] args) {
 
