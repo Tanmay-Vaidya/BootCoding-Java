@@ -1,5 +1,6 @@
-package NestedLoop;
+package SwitchStatement;
 import java.util.Scanner;
+
 public class SwitchMonth {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
