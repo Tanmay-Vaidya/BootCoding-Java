@@ -15,4 +15,3 @@ public class NamingViolationsExample
         System.out.println("Sum is: " + result);
     }
     }
-}
