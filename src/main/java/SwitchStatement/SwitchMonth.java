@@ -7,6 +7,11 @@ public class SwitchMonth {
         System.out.print("Enter the Month:");
         int month =sc.nextInt();
 
+
+
+
+        
+
         switch (month)
         {
                 case 1:
