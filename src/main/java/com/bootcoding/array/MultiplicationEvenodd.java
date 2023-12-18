@@ -9,12 +9,12 @@ public class MultiplicationEvenodd {
         int m;
         for (int i = 1; i <= a; i++) {
             m = n * i;
-            if (n % 2 == 0) {
+            if (m%2==0) {
                 System.out.println("These is Even Number Multiplication:"+n+"*"+i+"="+m);
             }
-                System.out.println("These is Odd Number Multiplication:"+n+"*"+i+"="+m);
-
-
+            else {
+                System.out.println("These is Odd Number Multiplication:" +n+"*"+i+"="+m);
+            }
         }
 
     }

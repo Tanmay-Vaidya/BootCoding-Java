@@ -11,11 +11,11 @@ public class ArmstrongNumber {
             a = n % 10;
             arm = (a * a * a) + arm;
             n = n / 10;
-        }
-        if (b == arm) {
-            System.out.println("These is Armstrong Number:");
-        } else {
-            System.out.println("These is Not Armstrong Number:");
+            if (b==arm) {
+                System.out.println("These is Armstrong Number:");;
+            } else {
+                System.out.println("These is Not Armstrong Number:");
+            }
         }
     }
 }
