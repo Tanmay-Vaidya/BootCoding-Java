@@ -2,7 +2,7 @@ package NestedLoop;
 
 public class DiamondStarPattern {
     public static void main(String[] args) {
-        int row=4;
+        int row=5;
         for(int x=0;x<row;x++)
         {
             for(int y=0;y<row-x;y++)
@@ -23,7 +23,7 @@ public class DiamondStarPattern {
             }
             for(int y=0;y<row-x-1;y++)
             {
-                System.out.print("* ");
+                System.out.print(" *");
             }
             System.out.println();
         }
