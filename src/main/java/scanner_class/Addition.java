@@ -7,9 +7,9 @@ public class Addition {
         int a=sc.nextInt();
         System.out.println("Enter a second number:");
         int b=sc.nextInt();
-        int c=a+b;
 
 
-        System.out.println("Addition of two number is:"+c);
+
+        System.out.println("Addition of two number is:"+(a+b));
     }
 }
