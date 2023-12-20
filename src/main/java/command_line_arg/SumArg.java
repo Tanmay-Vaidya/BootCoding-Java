@@ -1,5 +1,5 @@
 
-
+package command_line_arg;
 public class SumArg {
     public static void main(String[] args) {
         int num=Integer.parseInt(args[0]);
