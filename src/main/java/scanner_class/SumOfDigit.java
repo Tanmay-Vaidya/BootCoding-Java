@@ -14,6 +14,7 @@ public class SumOfDigit {
             sum=sum+r;
             n=n/10;
         }
+
         System.out.println("The given integer sum is:"+sum);
     }
 }
