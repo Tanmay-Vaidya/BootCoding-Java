@@ -1,3 +1,5 @@
+package com.bootcoding.method;
+
 public class Method {
     public static void sayHi() {
         System.out.println("Hello roman!");
