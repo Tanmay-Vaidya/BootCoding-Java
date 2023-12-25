@@ -1,4 +1,4 @@
-package NestedLoop;
+package com.bootcoding.NestedLoop;
 import java.util.Scanner;
 public class StarPattern {
     public static void main(String[] args) {

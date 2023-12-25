@@ -1,4 +1,4 @@
-package scanner_class;
+package com.bootcoding.scanner_class;
 import java.util.Scanner;
 public class SimpleCalculator {
     public static void main(String[] args) {

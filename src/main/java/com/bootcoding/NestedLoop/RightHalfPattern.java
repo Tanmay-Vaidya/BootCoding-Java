@@ -1,4 +1,4 @@
-package NestedLoop;
+package com.bootcoding.NestedLoop;
 
 class RightHalfPattern{
       public static void main(String[]args){

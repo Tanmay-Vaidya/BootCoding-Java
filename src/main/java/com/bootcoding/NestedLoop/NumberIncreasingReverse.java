@@ -1,4 +1,4 @@
-package NestedLoop;
+package com.bootcoding.NestedLoop;
 
 class NumberIncreasingReverse{
       public static void main(String[]args){

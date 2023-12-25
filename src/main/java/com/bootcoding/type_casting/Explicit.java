@@ -1,4 +1,4 @@
-package type_casting;
+package com.bootcoding.type_casting;
 
 class Explicit{
       public static void main(String[]args){

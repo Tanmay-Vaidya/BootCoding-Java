@@ -1,4 +1,4 @@
-package type_casting;
+package com.bootcoding.type_casting;
 
 class Implict{
       public static void main(String[]args){

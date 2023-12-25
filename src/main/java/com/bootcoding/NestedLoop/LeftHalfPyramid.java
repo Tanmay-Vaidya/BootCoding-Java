@@ -1,4 +1,4 @@
-package NestedLoop;
+package com.bootcoding.NestedLoop;
 
 public class LeftHalfPyramid {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package NestedLoop;
+package com.bootcoding.NestedLoop;
 
 class NumberIncreasingPyramid{
       public static void main(String[]args){

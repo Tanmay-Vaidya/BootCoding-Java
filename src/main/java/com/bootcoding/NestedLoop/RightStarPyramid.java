@@ -1,4 +1,4 @@
-package NestedLoop;
+package com.bootcoding.NestedLoop;
 
 public class RightStarPyramid {
     public static void main(String[] args) {
