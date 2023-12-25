@@ -6,13 +6,13 @@ public class ArmstrongUsingMethod {
             b=n;
         while (n > 0) {
             a = n % 10;
-            arm = (a * a * a *a) + arm;
+            arm = (a * a * a ) + arm;
             n = n / 10;
         }
             if (b==arm) {
-                System.out.println("These is Armstrong Number:");
+                System.out.println("These number is armstrong Number:");
             } else {
-                System.out.println("These is Not Armstrong Number:");
+                System.out.println("These number is Not armstrong Number:");
             }
         return arm;
     }
